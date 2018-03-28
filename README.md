@@ -1,6 +1,8 @@
 
 # Quine in Python
 
+A [quine](https://en.wikipedia.org/wiki/Quine_(computing)) is a self-reproducing program, that is, a program whose output is the same as its source code.
+
 In this repo we have two files, `pre-quine.py` which is the template of the quine and `compile.py` which
 takes the template and fills in the tape.
 
